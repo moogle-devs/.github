@@ -6,6 +6,8 @@
 
 Moogle, Google for cows. We're completely open-source, forever.
 
+View our [![Replit](https://img.shields.io/badge/Replit-white?logo=replit)](https://replit.com/@m00gle) as well!
+
 ## Members
 |Role|[![Replit](https://img.shields.io/badge/Replit-black?logo=replit)](https://replit.com)|[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/)|
 |---|---|---|
