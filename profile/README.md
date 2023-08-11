@@ -7,7 +7,7 @@
 Moogle, Google for cows. We're completely open-source, forever.
 
 ## Members
-|Role|Replit|GitHub|
+|Role|![Replit](https://img.shields.io/badge/Replit-black?logo=replit)|![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)|
 |---|---|---|
 |CEO|[@Evanisha](https://replit.com/@Evanisha)|-|
 |CDO|[@element1010](https://replit.com/@element1010)|[@element10101](https://github.com/element10101)|
