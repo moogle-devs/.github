@@ -20,3 +20,4 @@ View our [![Replit](https://img.shields.io/badge/Replit-white?logo=replit)](http
 |Developer + Search dev|[@SalladShooter](https://replit.com/@SalladShooter)|[@SalladShooter](https://github.com/SalladShooter)|
 |Developer|[@prisems](https://replit.com/@prisems)|[@prisems](https://github.com/prisems)|
 |Developer|[@sonicx180](https://replit.com/@sonicx180)|[@sonicx180](https://github.com/sonicx180)|
+|Developer|[@SnakeyKing](https://replit.com/@SnakeyKing)|[@SnakeyKing](https://github.com/SnakeyKing)|
